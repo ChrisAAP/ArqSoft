@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://admin123:admin123@arqsol-fq3nh.azure.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret" : "mysecrettoken"
+}
